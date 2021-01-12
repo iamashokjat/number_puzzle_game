@@ -1,4 +1,4 @@
-# Number Puzzle Game 
+<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/46165235/103451655-bce43f80-4cec-11eb-83c3-81524b270dce.gif" width="40px"/> This is  Number Puzzle Game  🤗</h1>
 
 ## Instruction of the game.
 >* Given a nxn board with n*n-1 tiles (every tile has one number from 1 to 15)  Eg:3X3 puzzle range from 1 to 8 and one empty space.
